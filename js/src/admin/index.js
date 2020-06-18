@@ -1,3 +1,3 @@
-app.initializers.add('vendor/flarum-mobile', () => {
-  console.log('[vendor/flarum-mobile] Hello, admin!');
+app.initializers.add('isjie/flarum-mobile', () => {
+  console.log('[isjie/flarum-mobile] Hello, admin!');
 });
