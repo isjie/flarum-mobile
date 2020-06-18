@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Vendor\Moblie;
+namespace Isjie\Moblie;
 
 use Flarum\Extend;
 
