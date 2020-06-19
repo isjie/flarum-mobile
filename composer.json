@@ -25,9 +25,9 @@
     "flarum-extension": {
       "title": "Flarum-mobile",
       "icon": {
-        "name": "",
-        "backgroundColor": "",
-        "color": ""
+        "name": "far fa-envelope",
+        "backgroundColor": "#000000",
+        "color": "#ffffff"
       }
     },
     "flagrow": {
